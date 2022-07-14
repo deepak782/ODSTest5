@@ -5,8 +5,11 @@
       <map>
         <entry key="..\:/ODSTest5/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest5/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODSTest5/app/src/main/res/layout/activity_visiblity.xml" value="0.2" />
         <entry key="..\:/ODSTest5/app/src/main/res/layout/custom_calllog.xml" value="0.20416666666666666" />
         <entry key="..\:/ODSTest5/app/src/main/res/layout/custom_contacts.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODSTest5/app/src/main/res/layout/login_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/ODSTest5/app/src/main/res/layout/signup_layout.xml" value="0.22" />
       </map>
     </option>
   </component>
